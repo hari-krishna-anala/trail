@@ -1,0 +1,13 @@
+
+ƒ
+java:S5826"aAnnotate this method with JUnit5 '@org.junit.jupiter.api.BeforeEach' instead of JUnit4 '@Before'.(Ğ¸ªÓÿÿÿÿÿ8ÜÍ¶›á0
+|
+java:S5826 "_Annotate this method with JUnit5 '@org.junit.jupiter.api.AfterEach' instead of JUnit4 '@After'.(Ùò8ŞÍ¶›á0
+;
+java:S5786&"Remove this 'public' modifier.(„¡ô¬8àÍ¶›á0
+@
+java:S5786:"Remove this 'public' modifier.(‡¶û®ûÿÿÿÿ8äÍ¶›á0
+;
+java:S5786j"Remove this 'public' modifier.(òŠ©«8äÍ¶›á0
+:
+java:S5786"Remove this 'public' modifier.(¥‡B8åÍ¶›á0

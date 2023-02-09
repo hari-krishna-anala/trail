@@ -1,0 +1,26 @@
+
+Q
+java:S1066*"/Merge this if statement with the enclosing one.(’Œğùÿÿÿÿ8óä ïà0
+7
+java:S1220""Move this file to a named package.8õä ïà0
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(ê¡úÿÿÿÿÿ8îå ïà0
+[
+java:S2130,"9Use "Integer.parseInt" for this string-to-int conversion.(ìÁÏÙûÿÿÿÿ8ñå ïà0
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8öå ïà0
+8
+java:S3626w"Remove this redundant jump.(ûÁİ…8÷å ïà0
+V
+java:S2130s"9Use "Integer.parseInt" for this string-to-int conversion.(ª„Öà8øå ïà0
+[	java:S106‚"9Replace this use of System.out or System.err by a logger.(‰†–¤ÿÿÿÿÿ8ùå ïà0
+H
+java:S1197ˆ"*Move the array designators [] to the type.(ö±îÉ8úå ïà0
+Y
+java:S1854"6Remove this useless assignment to local variable "sb".(€ê±Õúÿÿÿÿ8úå ïà0
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿ8úå ïà0
+M
+java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8ûå ïà0
+J
+java:S1481"'Remove this unused "sb" local variable.(€ê±Õúÿÿÿÿ8ƒæ ïà0
+V	java:S106›"9Replace this use of System.out or System.err by a logger.(¢àóÄ8Ğ±°šá0
